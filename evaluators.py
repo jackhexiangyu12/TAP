@@ -9,7 +9,7 @@ from system_prompts import get_evaluator_system_prompt_for_judge, get_evaluator_
 from language_models import GPT
 
 def load_evaluator(args):
-    if "gpt" in args.evaluator_model:
+    if "gpt" in args.evaluator_model or "Llama-Guard" in args.evaluator_model:
         return GPTEvaluator(args)
     elif args.evaluator_model == "no-evaluator":
         return NoEvaluator(args)
@@ -119,6 +119,7 @@ class GPTEvaluator(EvaluatorBase):
         outputs = [self.process_output_on_topic_score(raw_output) for raw_output in raw_outputs]
         return outputs
 
+    
 class OpenSourceEvaluator(EvaluatorBase):
     def __init__(self, evaluator_model, evaluator_tokenizer, args): 
         raise NotImplementedError

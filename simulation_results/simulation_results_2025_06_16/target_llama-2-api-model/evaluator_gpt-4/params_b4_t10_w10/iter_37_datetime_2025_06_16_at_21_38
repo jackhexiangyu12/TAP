@@ -1,0 +1,76 @@
+Done loading attacker and target!
+Done loading evaluator!
+wandb: Currently logged in as: 22920202204559 (22920202204559-the-hong-kong-polytechnic-university). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.8
+wandb: Run data is saved locally in /media/ssd4/hxy/video_jailbreak/TAP/wandb/run-20250618_075833-v4qgwc81
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run golden-river-38
+wandb: ⭐️ View project at https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms
+wandb: 🚀 View run at https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms/runs/v4qgwc81
+Done logging!
+Beginning TAP!
+
+====================================
+Tree-depth is: 1
+====================================
+
+Entering branch number 0
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.99960419908166)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.99955592676997)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.9995512701571)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.99955778941512)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.9995849058032)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.99955534562469)
+exception! <class 'urllib3.exceptions.ReadTimeoutError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Read timed out. (read timeout=99.99957200139761)

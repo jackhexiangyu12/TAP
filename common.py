@@ -5,7 +5,7 @@ import logging
 from fastchat.model import get_conversation_template
 
 # Metadata used to store our results
-STORE_FOLDER = '' 
+STORE_FOLDER = '/media/ssd4/hxy/video_jailbreak/TAP/' 
 ITER_INDEX = '' 
 
 def random_string(n):
@@ -60,4 +60,4 @@ def conv_template(template_name, self_id=None, parent_id=None):
     template.self_id = self_id
     template.parent_id = parent_id
 
-    return template 
+    return template

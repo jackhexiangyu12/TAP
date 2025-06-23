@@ -1,0 +1,43 @@
+Done loading attacker and target!
+Done loading evaluator!
+wandb: ERROR api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 412, in <module>
+    main(args)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 111, in main
+    logger = WandBLogger(args, system_prompt)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/loggers.py", line 16, in __init__
+    self.logger = wandb.init(
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1242, in init
+    wandb._sentry.reraise(e)
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/analytics/sentry.py", line 155, in reraise
+    raise exc.with_traceback(sys.exc_info()[2])
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1227, in init
+    wi.setup(kwargs)
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 295, in setup
+    wandb_login._login(
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 346, in _login
+    wlogin.prompt_api_key()
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 280, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.UsageError: api_key not configured (no-tty). call wandb.login(key=[your_api_key])
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 412, in <module>
+    main(args)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 111, in main
+    logger = WandBLogger(args, system_prompt)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/loggers.py", line 16, in __init__
+    self.logger = wandb.init(
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1242, in init
+    wandb._sentry.reraise(e)
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/analytics/sentry.py", line 155, in reraise
+    raise exc.with_traceback(sys.exc_info()[2])
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1227, in init
+    wi.setup(kwargs)
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 295, in setup
+    wandb_login._login(
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 346, in _login
+    wlogin.prompt_api_key()
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_login.py", line 280, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.UsageError: api_key not configured (no-tty). call wandb.login(key=[your_api_key])

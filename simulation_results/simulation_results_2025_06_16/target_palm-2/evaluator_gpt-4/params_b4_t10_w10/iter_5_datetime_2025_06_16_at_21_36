@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 5, in <module>
+    from loggers import WandBLogger
+  File "/media/ssd4/hxy/video_jailbreak/TAP/loggers.py", line 10, in <module>
+    import common 
+  File "/media/ssd4/hxy/video_jailbreak/TAP/common.py", line 5, in <module>
+    from fastchat.model import get_conversation_template
+ModuleNotFoundError: No module named 'fastchat'
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 5, in <module>
+    from loggers import WandBLogger
+  File "/media/ssd4/hxy/video_jailbreak/TAP/loggers.py", line 10, in <module>
+    import common 
+  File "/media/ssd4/hxy/video_jailbreak/TAP/common.py", line 5, in <module>
+    from fastchat.model import get_conversation_template
+ModuleNotFoundError: No module named 'fastchat'

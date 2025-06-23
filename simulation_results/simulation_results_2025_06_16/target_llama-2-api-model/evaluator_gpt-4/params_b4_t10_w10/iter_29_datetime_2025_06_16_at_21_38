@@ -1,0 +1,459 @@
+Done loading attacker and target!
+Done loading evaluator!
+wandb: Currently logged in as: 22920202204559 (22920202204559-the-hong-kong-polytechnic-university). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.8
+wandb: Run data is saved locally in /media/ssd4/hxy/video_jailbreak/TAP/wandb/run-20250617_223342-bg04c94w
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run soft-grass-30
+wandb: ⭐️ View project at https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms
+wandb: 🚀 View run at https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms/runs/bg04c94w
+Done logging!
+Beginning TAP!
+
+====================================
+Tree-depth is: 1
+====================================
+
+Entering branch number 0
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+Entering branch number 1
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'urllib3.exceptions.ProtocolError'> ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc274c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc248b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25780>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25b70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16f80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25c00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc270a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16230>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24dc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc249d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc257b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc172e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15240>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc254b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc255a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc259f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc14b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25360>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25ba0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc14fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e24d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc272b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc14550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc14a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15270>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc164d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16a10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16170>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc155d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc14850>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc178b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16e60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc152d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc148e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15510>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc159c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc158a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc256c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc168c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc143a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15270>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc152d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc161a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15a50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc160e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16a70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc149d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e2e90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e32e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc269e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc149d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05cf8b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Entering branch number 2
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26380>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27370>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e32e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc244c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc279d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e0190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25b10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e24d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc274c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc249d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc16e60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e2680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc25180>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc174c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc272e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc24250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e2e90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc169e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc269b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc254e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15510>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc249d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e3280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+	Querying attacker with 1 prompts
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc15000>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e2e30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26b30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc17910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc175e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc27b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9efc26b30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'urllib3.exceptions.MaxRetryError'> HTTPConnectionPool(host='10.21.4.21', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb9f05e1c00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+Entering branch number 3
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+	Querying attacker with 1 prompts
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+exception! <class 'KeyError'> 'output'
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 412, in <module>
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 153, in main
+    extracted_attack_list, convs_list = clean_attacks_and_convs(extracted_attack_list, convs_list)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 19, in clean_attacks_and_convs
+    attack_list, convs_list = list(tmp[0]), list(tmp[1])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 412, in <module>
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 153, in main
+    extracted_attack_list, convs_list = clean_attacks_and_convs(extracted_attack_list, convs_list)
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 19, in clean_attacks_and_convs
+    attack_list, convs_list = list(tmp[0]), list(tmp[1])
+IndexError: list index out of range
+wandb: - 0.012 MB of 0.012 MB uploadedwandb: \ 0.012 MB of 0.012 MB uploadedwandb: | 0.012 MB of 0.081 MB uploadedwandb: / 0.081 MB of 0.081 MB uploadedwandb: 🚀 View run soft-grass-30 at: https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms/runs/bg04c94w
+wandb: ⭐️ View project at: https://wandb.ai/22920202204559-the-hong-kong-polytechnic-university/jailbreak-llms
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20250617_223342-bg04c94w/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

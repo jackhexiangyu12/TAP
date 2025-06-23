@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/media/ssd4/hxy/video_jailbreak/TAP/main_TAP.py", line 5, in <module>
+    from loggers import WandBLogger
+  File "/media/ssd4/hxy/video_jailbreak/TAP/loggers.py", line 3, in <module>
+    import wandb
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/__init__.py", line 20, in <module>
+    from wandb import sdk as wandb_sdk
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/__init__.py", line 28, in <module>
+    from .wandb_init import _attach, init
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 33, in <module>
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/backend/backend.py", line 19, in <module>
+    from wandb.sdk.internal.internal import wandb_internal
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/internal/internal.py", line 32, in <module>
+    from . import context, handler, internal_util, sender, writer
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/internal/handler.py", line 43, in <module>
+    from .system.system_monitor import SystemMonitor
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/internal/system/system_monitor.py", line 8, in <module>
+    from .assets.asset_registry import asset_registry
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/internal/system/assets/__init__.py", line 25, in <module>
+    from .open_metrics import OpenMetrics
+  File "/home/hxy/.local/lib/python3.10/site-packages/wandb/sdk/internal/system/assets/open_metrics.py", line 48, in <module>
+    import prometheus_client.parser  # type: ignore
+  File "/home/hxy/anaconda3/envs/flash_attn20250605/lib/python3.10/site-packages/prometheus_client/__init__.py", line 3, in <module>
+    from . import (
+  File "/home/hxy/anaconda3/envs/flash_attn20250605/lib/python3.10/site-packages/prometheus_client/exposition.py", line 4, in <module>
+    from http.server import BaseHTTPRequestHandler
+  File "/home/hxy/anaconda3/envs/flash_attn20250605/lib/python3.10/http/server.py", line 103, in <module>
+    import socketserver
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 975, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_data
+KeyboardInterrupt
