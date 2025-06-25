@@ -1,4 +1,8 @@
-import openai
+from openai import OpenAI
+import os
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"),
+                timeout=30.0)
 import anthropic
 import os
 import time
@@ -11,17 +15,17 @@ from copy import deepcopy
 
 from config import LLAMA_API_LINK, VICUNA_API_LINK
 
-    
+
 class LanguageModel():
     def __init__(self, model_name):
         self.model_name = model_name
-    
+
     def batched_generate(self, prompts_list: List, max_n_tokens: int, temperature: float):
         """
         Generates responses for a batch of prompts using a language model.
         """
         raise NotImplementedError
-        
+
 class HuggingFace(LanguageModel):
     def __init__(self,model_name, model, tokenizer):
         self.model_name = model_name
@@ -37,7 +41,7 @@ class HuggingFace(LanguageModel):
         inputs = self.tokenizer(full_prompts_list, return_tensors='pt', padding=True)
         inputs = {k: v.to(self.model.device.index) for k, v in inputs.items()} 
 
-        
+
         # Batch generation
         if temperature > 0:
             output_ids = self.model.generate(
@@ -57,7 +61,7 @@ class HuggingFace(LanguageModel):
                 top_p=1,
                 temperature=1, # To prevent warning messages
             )
-            
+
         # If the model is not an encoder-decoder type, slice off the input tokens
         if not self.model.config.is_encoder_decoder:
             output_ids = output_ids[:, inputs["input_ids"].shape[1]:]
@@ -90,11 +94,11 @@ class APIModel(LanguageModel):
     API_ERROR_OUTPUT = "$ERROR$"
     API_QUERY_SLEEP = 0.5
     API_MAX_RETRY = 20
-    
+
     API_TIMEOUT = 100
-    
+
     MODEL_API_KEY = os.getenv("MODEL_API_KEY")
-    
+
     API_HOST_LINK = ''
 
     def generate(self, conv: List[Dict], 
@@ -110,12 +114,12 @@ class APIModel(LanguageModel):
         Returns:
             str: generated response
         ''' 
-            
+
         output = self.API_ERROR_OUTPUT 
-        
+
         for _ in range(self.API_MAX_RETRY):  
             try:
-                
+
                 # Batch generation
                 if temperature > 0:
                     # Attack model
@@ -143,14 +147,14 @@ class APIModel(LanguageModel):
                     # Do not use extra end-of-string tokens in target mode
                     if 'llama' in self.model_name: 
                         json['extra_eos_tokens'] = 0 
-                        
-    
+
+
                 if 'llama' in self.model_name:
                     # No system prompt for the Llama model
                     assert json['prompt'] == ''
                     json['prompt'] = deepcopy(json['system_prompt'])
                     del json['system_prompt'] 
-                
+
                 resp = urllib3.request(
                             "POST",
                             self.API_HOST_LINK,
@@ -164,23 +168,23 @@ class APIModel(LanguageModel):
                 if 'vicuna' in self.model_name:
                     if 'error' in resp_json:
                         print(self.API_ERROR_OUTPUT)
-    
+
                     output = resp_json['output']
-                    
+
                 else:
                     output = resp_json
-                    
+
                 if type(output) == type([]):
                     output = output[0] 
-                
+
                 break
             except Exception as e:
                 print('exception!', type(e), e)
                 time.sleep(self.API_RETRY_SLEEP)
-        
+
             time.sleep(self.API_QUERY_SLEEP)
         return output 
-    
+
     def batched_generate(self, 
                         convs_list: List[List[Dict]],
                         max_n_tokens: int, 
@@ -202,8 +206,7 @@ class GPT(LanguageModel):
     API_QUERY_SLEEP = 0.5
     API_MAX_RETRY = 20
     API_TIMEOUT = 20
-    
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
     def generate(self, conv: List[Dict], 
                 max_n_tokens: int, 
@@ -221,31 +224,34 @@ class GPT(LanguageModel):
         output = self.API_ERROR_OUTPUT
         for _ in range(self.API_MAX_RETRY):
             try: 
-                
-                response = openai.ChatCompletion.create(
-                            model = self.model_name,
-                            messages = conv,
-                            max_tokens = max_n_tokens,
-                            temperature = temperature,
-                            top_p = top_p,
-                            request_timeout = self.API_TIMEOUT,
-                            )
-                output = response["choices"][0]["message"]["content"]
+                # 把conv中的'role': 'system'替换成'role': 'assistant'
+                conv1 = deepcopy(conv)
+                for message in conv1:
+                    if message['role'] == 'system':
+                        message['role'] = 'assistant'
+                # 把conv中的'role': 'system'那一条删掉
+                conv2 = [message for message in conv if message['role'] != 'system']
+                response = client.chat.completions.create(model = self.model_name,
+                messages = conv2,
+                max_tokens = max_n_tokens,
+                temperature = temperature,
+                top_p = top_p)
+                output = response.choices[0].message.content
                 break
             except Exception as e: 
                 print(type(e), e)
                 time.sleep(self.API_RETRY_SLEEP)
-        
+
             time.sleep(self.API_QUERY_SLEEP)
         return output 
-    
+
     def batched_generate(self, 
                         convs_list: List[List[Dict]],
                         max_n_tokens: int, 
                         temperature: float,
                         top_p: float = 1.0,):
         return [self.generate(conv, max_n_tokens, temperature, top_p) for conv in convs_list]
-     
+
 class PaLM():
     API_RETRY_SLEEP = 10
     API_ERROR_OUTPUT = "$ERROR$"
@@ -281,7 +287,7 @@ class PaLM():
                     top_p=top_p
                 )
                 output = completion.last
-                
+
                 if output is None:
                     # If PaLM refuses to output and returns None, we replace it with a default output
                     output = self.default_output
@@ -293,10 +299,10 @@ class PaLM():
             except Exception as e:
                 print(type(e), e)
                 time.sleep(self.API_RETRY_SLEEP)
-        
+
             time.sleep(self.API_QUERY_SLEEP)
         return output
-    
+
     def batched_generate(self, 
                         convs_list: List[List[Dict]],
                         max_n_tokens: int, 
@@ -356,10 +362,10 @@ class GeminiPro():
             except Exception as e:
                 print(type(e), e)
                 time.sleep(self.API_RETRY_SLEEP)
-        
+
             time.sleep(self.API_QUERY_SLEEP)
         return output
-    
+
     def batched_generate(self, 
                         convs_list: List[List[Dict]],
                         max_n_tokens: int, 
