@@ -315,6 +315,7 @@ if __name__ == '__main__':
                  "gpt-4-turbo", 
                  "gpt-4-1106-preview",
                  "meta-llama/Llama-Guard-3-8B",
+                 "Qwen/Qwen2.5-VL-7B-Instruct",
                  "no-evaluator"]
     )
     parser.add_argument(

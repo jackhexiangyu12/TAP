@@ -230,9 +230,15 @@ class GPT(LanguageModel):
                     if message['role'] == 'system':
                         message['role'] = 'assistant'
                 # 把conv中的'role': 'system'那一条删掉
-                conv2 = [message for message in conv if message['role'] != 'system']
+                # conv2 = [message for message in conv if message['role'] != 'system']
+                # 把conv中的'role': 'assistant'与'role': 'user'互换
+                # for message in conv1:
+                #     if message['role'] == 'assistant':
+                #         message['role'] = 'user'
+                #     elif message['role'] == 'user':
+                #         message['role'] = 'assistant'
                 response = client.chat.completions.create(model = self.model_name,
-                messages = conv2,
+                messages = conv1,
                 max_tokens = max_n_tokens,
                 temperature = temperature,
                 top_p = top_p)
